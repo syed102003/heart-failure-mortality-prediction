@@ -14,6 +14,7 @@ Compare model performance
 
 Visualize clinical insights
 
+
 📂 Dataset
 
 The dataset contains 299 patient records with 12 clinical features such as:
@@ -84,6 +85,8 @@ Classification Report
 ROC Curve
 
 ROC-AUC Score
+
+
 📷 Visualizations
 
 This project includes:
@@ -98,4 +101,4 @@ Correlation heatmap
 
 ROC curve comparison
 
-(Add images in an /images folder if you want them displayed.)
+
